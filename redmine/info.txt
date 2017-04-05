@@ -1,0 +1,18 @@
+# -*- coding: utf8 -*-
+
+****** Status ID list ******
+{id:1, "New"}{id:2, "In Progress"}{id:3, "Resolved"}{id:4, "Feedback"}{id:5, "Closed"}
+{id:6, "Rejected"}{id:8, "Request More Info"}{id:9, "Postpone"}{id:11, "Cancel"}{id:12, "Resume"}
+{id:13, "Assigned"}{id:14, "Failed"}{id:15, "Obsolete"}{id:16, "Known Issue"}
+
+****** Priority ID list ******
+{id:7,"P1-緊急"}{id:5,"P2-高"}{id:4,"P3-中"}{id:3,"P4-低"}
+
+****** Tracker ID list ******
+{id:1, "Bug"}{id:2, "Feature"}{id:3, "Support"}{id:4, "Misc"}{id:5, "Plan"}{id:6, "Improvement"}{id:7, "Test Case"}
+
+****** Project ID list ******
+{id:4, "InQuartik Desktop"}{id:79, "PatentCloud 開發"}{id:150, "InQuartik Shield"}
+{id:170, "TSD-InQuartik 產品問題回報 - Desktop v2.9.1"}{id:171, "TSD-InQuartik 產品問題回報 - Shield v2.7.0.1001"}
+{id:179, "InQuartik Desktop v2.9 RD item - v2.9.2"}{id:190, "TSD-InQuartik 產品問題回報 - Desktop v2.9.2"}
+{id:194, "InQuartik Desktop v2.9 RD item - v2.10.0"}
