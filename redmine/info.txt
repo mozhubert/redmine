@@ -1,3 +1,4 @@
+# This document is for mapping the id and item name
 # -*- coding: utf8 -*-
 
 ****** Status ID list ******
